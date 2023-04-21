@@ -6,16 +6,7 @@ Hi there, I'm Lewis - a Research Analyst and Data Scientist currently working fo
 👯 I’m looking to collaborate on open-source projects and initiatives that contribute to social good
 🤔 I’m looking for help with learning more advanced ML techniques and best practices in data analysis
 💬 Ask me about Python, data science, non-profit work, or anything else you're curious about!
-📫 How to reach me: YourEmail@example.com
 ⚡ Fun fact: I love ultra running!
 🛠 Skills and Technologies
-
-skills = {
-    "languages": ["Python", "SQL", "HTML", "CSS", "JavaScript"],
-    "libraries": ["pandas", "numpy", "scikit-learn", "tensorflow", "keras", "matplotlib", "seaborn", "bokeh", "dash"],
-    "tools": ["Jupyter", "Git", "GitHub", "Docker", "VSCode", "Google Colab"],
-    "databases": ["PostgreSQL", "MySQL", "SQLite"],
-    "cloud_services": ["AWS", "GCP", "Heroku"],
-}
 
 From @lehb92
